@@ -28,7 +28,6 @@ twitter_username: None
 github_username:  secretsantaiitb
 
 # Build settings
-theme: lanyon
 plugins:
   - jekyll-feed
   - jekyll-redirect-from
