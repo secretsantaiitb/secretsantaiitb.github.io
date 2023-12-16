@@ -18,6 +18,8 @@ permalink: /smokey
 
 <div style="text-align:center;opacity:0;" class="clicky"> but who didn't? </div>
 
+<div style="text-align:center;opacity:0;" class="clicky"> Hint - Enter the answer in the URL </div>
+
 <br>
 <br>
 
